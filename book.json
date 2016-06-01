@@ -1,0 +1,12 @@
+{
+    "plugins": [
+        "googledocs",
+        "comment",
+        "-highlight",
+        "-highlightjs",
+        "image-captions",
+        "numbered-headings",
+        "-theme-official"
+    ],
+    "pluginsConfig": {}
+}
